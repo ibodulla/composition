@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c0cbbbb-309e-45b7-a6ff-0ec1ad53b0be" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composition.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/Bike.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/CompositionDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/Honda.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/HondaEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/has_a/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/has_a/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/has_a/TestPerson.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/has_a_2/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/has_a_2/Institute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/has_a_2/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/has_a_2/TestAggregation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -758,12 +743,20 @@
       <option name="presentableId" value="Default" />
       <updated>1565954468188</updated>
       <workItem from="1565954471688" duration="1657000" />
-      <workItem from="1565956171209" duration="1086000" />
+      <workItem from="1565956171209" duration="2103000" />
     </task>
+    <task id="LOCAL-00001" summary="First commite">
+      <created>1565957611506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565957611506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2743000" />
+    <option name="totallyTimeSpent" value="3760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -823,6 +816,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="First commite" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commite" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
